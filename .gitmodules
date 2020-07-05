@@ -1,0 +1,3 @@
+[submodule "02-正方形渲染-坐标更新/OpenGL_demo"]
+	path = 02-正方形渲染-坐标更新/OpenGL_demo
+	url = git@github.com:hanxiaoxiao/OpenGL_draw.git
